@@ -1,5 +1,6 @@
 import React from "react";
 
+// passing in props as a parameter brings our data imported from the fetch request 
  export default function Gallery (props) {
  return (
    <div style={{ width: "100%" }}>
